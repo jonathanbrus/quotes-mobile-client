@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "632851550630",
+    "project_id": "agnii-a68ee",
+    "storage_bucket": "agnii-a68ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632851550630:android:ec05f424383041eb233f67",
+        "android_client_info": {
+          "package_name": "com.example.agnii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632851550630-bp251md4htkorbeuc482r05ktd6nbqai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGN0GnmArpZxrQtN4kyqtdtuiNlE9T47A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632851550630-bp251md4htkorbeuc482r05ktd6nbqai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
